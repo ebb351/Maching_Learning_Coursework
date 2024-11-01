@@ -9,6 +9,7 @@ The labs cover a range of topics and techniques, including:
 - **Text Generation and NLP**: Constructing and training autoregressive models for text generation from scratch, demonstrating the quality vs. complexity trade-offs.
 - **Logistic Regression for Medical Data**: Implementing logistic regression using the Wisconsin Breast Cancer dataset to predict whether cells are benign or malignant. This lab involves data visualization, model fitting, and performance evaluation for binary classification, including precision and recall analysis.
 - **Piecewise Linear Regression**: Using the Auto MPG dataset, this lab explores piecewise linear regression modeling with different segments of data, fitting slopes, and intercepts based on breakpoints. It also involves evaluating the model's performance using L2 loss and visualizing the fitted model.
+- **Gradient Descent Optimization**: Building a simple gradient descent optimizer from scratch, implementing regularization, stochastic gradient descent, and adaptive learning rates to explore their effects on convergence and model performance.
 
 ## Coursework Highlights
 - **Hands-On Implementation**: Each lab focuses on building models and algorithms from the ground up, showcasing a strong understanding of ML concepts beyond the use of pre-built packages like `scikit-learn` or `TensorFlow`.

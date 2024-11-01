@@ -157,6 +157,9 @@ cython_debug/
 # books from autoregressive model
 book text files for autoregressive model
 
+# piclkle data
+example_data_s1.pickle
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
