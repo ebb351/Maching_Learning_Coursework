@@ -155,7 +155,6 @@ dmypy.json
 cython_debug/
 
 # books from autoregressive model
-book text files for autoregressive model
 Metamorphosis.txt
 MonteCristo.txt
 Shakespeare.txt
