@@ -156,6 +156,10 @@ cython_debug/
 
 # books from autoregressive model
 book text files for autoregressive model
+Metamorphosis.txt
+MonteCristo.txt
+Shakespeare.txt
+Wonderland.txt
 
 # piclkle data
 example_data_s1.pickle
